@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+* {
+    font-family: 'Itim', cursive;
+    background-color: purple;
+    padding: 5px 20px;
+}
+
+.form {
+    display: flex;
+    padding-left: 300px;
+    text-align: left;
+}
+
+.formulario{
+    background-color: white;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    color: purple;
+    font-size: 50px;
+}
+
+.formulario>p>strong {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    font-size: 20px;
+    padding-left: 0;
+    
+}
+
+.formulario>p {
+    background-color: white;
+    font-size: 15px;
+    padding-left: 5px;
+}
+
+.formulario>input {
+    background-color: white;
+    border-radius: 3px;
+    border-color: purple;
+    width: 500px;
+}
+
+
+.formulario>a {
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-decoration: none;    
+    background-color: purple;
+    border-radius: 3px;
+    width: 500px;
+    height: 20px;
+}
+
+.formulario>p {
+    background-color: white;
+}
+
